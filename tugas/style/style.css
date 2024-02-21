@@ -1,0 +1,109 @@
+.body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+      }
+.header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    }
+.section {
+    margin-top: 20px;
+    }
+.product {
+    border: 1px solid #ddd;
+        padding: 10px;
+        margin-bottom: 20px;
+}
+.profile h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Style untuk sidebar */
+.sidebar {
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 50px;
+    position: fixed;
+    top: 55px; ;
+    left: 0;
+    height: 100%;
+}
+
+/* Style untuk judul kategori */
+.category-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}
+
+/* Style untuk checkbox */
+.checkbox {
+    margin-bottom: 5px;
+}
+
+/* Style untuk tombol filter */
+.filter-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.filter-btn:hover {
+    background-color: #45a049;
+}
+.search-box {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+/* Style untuk tombol pencarian */
+.search-btn {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.search-btn:hover {
+    background-color: #45a049;
+}
+.cart-container {
+    width: 80%;
+    margin: auto;
+}
+
+.cart-container {
+    width: 80%;
+    margin: auto;
+}
+
+/* Style untuk daftar produk */
+.product-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style untuk setiap produk */
+.product-item {
+    margin-bottom: 10px;
+}
+
+/* Style untuk tombol hapus produk */
+.delete-btn {
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
